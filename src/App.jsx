@@ -105,16 +105,26 @@ export default function App() {
               <h3 className="font-bold text-white text-lg">Senior IT Engineer</h3>
               <p className="text-green-400 text-sm mt-1">Telkomsel – Jakarta, Indonesia | Jan 2023 – Present</p>
               <ul className="list-disc list-inside text-gray-300 mt-3">
-                <li>Backend Developer for IndiHome TV and Maxstream Apps, optimizing system architecture.</li>
+                <li>Backend Developer for IndiHome TV Apps, optimizing system architecture.</li>
+                <li>Supported backend integration between IndiHome TV and the Maxstream application.</li>
               </ul>
             </div>
             <div className="bg-gray-800 rounded-lg p-6 border-l-4 border-blue-500 shadow-lg hover:shadow-xl transition">
               <h3 className="font-bold text-white text-lg">Officer 2 OTT Infrastructure Development</h3>
-              <p className="text-blue-400 text-sm mt-1">DTV Video Telkom STO Gambir – Jakarta, Indonesia | 2018 – 2023</p>
+              <p className="text-blue-400 text-sm mt-1">DTV Video Telkom STO Gambir – Jakarta, Indonesia | 2022 – 2023</p>
               <ul className="list-disc list-inside text-gray-300 mt-3">
-                <li>Supervised CAPEX projects for IndiHome TV OTT platform.</li>
-                <li>Managed deployment & bug fixing cycles for Indihome TV IPTV platform.</li>
-                <li>Network planning and installation for Indihome TV.</li>
+                <li>Supervised annual Capital Expenditure (CAPEX) projects specifically for the IndiHome TV OTT platform.</li>
+                <li>Managed OTT infrastructure planning and development to support new feature rollouts and maintenance activities.</li>
+                <li>Coordinated with partners on infrastructure deployments and ensured installations were completed according to specifications.</li>
+              </ul>
+            </div>
+            <div className="bg-gray-800 rounded-lg p-6 border-l-4 border-blue-500 shadow-lg hover:shadow-xl transition">
+              <h3 className="font-bold text-white text-lg">IT Engineer</h3>
+              <p className="text-blue-400 text-sm mt-1">DTV Video Telkom STO Gambir – Jakarta, Indonesia | 2018 – 2022</p>
+              <ul className="list-disc list-inside text-gray-300 mt-3">
+                <li>Planned, installed, and maintained server and network infrastructure for the IndiHome TV IPTV development environment.</li>
+                <li>Managed feature releases and bug-fix cycles, collaborating closely with developers to ensure platform stability and timely delivery.</li>
+                <li>Provided technical support and optimization for the IPTV platform’s core systems.</li>
               </ul>
             </div>
             <div className="bg-gray-800 rounded-lg p-6 border-l-4 border-indigo-500 shadow-lg hover:shadow-xl transition">
