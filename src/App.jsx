@@ -142,12 +142,19 @@ export default function App() {
           <h2 className="text-3xl font-bold mb-6 text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-400">
             Technical Skills
           </h2>
-          <div className="flex flex-wrap gap-3">
-            {["Golang","Java","Kotlin","PHP","Python","Javascript","MySQL"].map(skill => (
-              <span key={skill} className="bg-gradient-to-r from-blue-500 to-purple-500 text-white px-4 py-2 rounded-full text-sm font-semibold shadow-lg hover:shadow-xl transition">
-                {skill}
-              </span>
-            ))}
+          <div className="space-y-4">
+            <div className="bg-gray-800 rounded-lg p-4 border-l-4 border-blue-500">
+              <p className="text-gray-300"><span className="font-semibold text-white">Programming Languages:</span> Golang, Java, Kotlin, PHP, Python, Javascript, MySQL</p>
+            </div>
+            <div className="bg-gray-800 rounded-lg p-4 border-l-4 border-indigo-500">
+              <p className="text-gray-300"><span className="font-semibold text-white">Networking:</span> Network Planning (Topology, IP Subnetting), Server & Network Installation & Configuration (Dell, HP, Cisco, Mikrotik) </p>
+            </div>
+            <div className="bg-gray-800 rounded-lg p-4 border-l-4 border-purple-500">
+              <p className="text-gray-300"><span className="font-semibold text-white">Tools & Software:</span> GIT, Notion, Figma, Android Studio, Wireshark, Adobe Photoshop & Premier, AutoCAD</p>
+            </div>
+            <div className="bg-gray-800 rounded-lg p-4 border-l-4 border-green-500">
+              <p className="text-gray-300"><span className="font-semibold text-white">Operating Systems:</span> Windows, Linux (Centos, Ubuntu, Suse), Mac OS</p>
+            </div>
           </div>
         </section>
 
