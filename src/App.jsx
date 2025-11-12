@@ -90,7 +90,8 @@ export default function App() {
             Professional Summary
           </h2>
           <p className="text-gray-300 leading-relaxed">
-            Results-driven IT professional with over 10 years of experience in network infrastructure planning, backend and Android application development, and digital platform operations. Experienced in overseeing technology initiatives from concept to deployment, balancing technical execution with budget efficiency and business objectives. Proven track record in enhancing functionality and performance for large-scale platforms such as IndiHome TV. Skilled in Golang, Java, PHP, Python, and Linux server administration.
+            Results-driven IT professional with over 10 years of experience in network infrastructure planning, backend and Android application development, and digital platform operations. Experienced in overseeing technology initiatives from concept to deployment, balancing technical execution with budget efficiency and business objectives. Proven track record in enhancing functionality and performance for large-scale platforms such as IndiHome TV. 
+            Skilled in Golang, Java, PHP, Python, and Linux server administration. Seeking a challenging Senior IT Engineer role or an opportunity to transition into Product Management, eager to leverage technical expertise to drive product innovation and business growth.
           </p>
         </section>
 
