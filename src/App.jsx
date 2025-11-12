@@ -1,6 +1,6 @@
 import React from "react";
 import profilePic from "./assets/fotonk_compres.jpeg";
-import portoApp1 from "./assets/IndihomeTV.PNG";
+import portoApp1 from "./assets/indihometv.jpeg";
 import portoApp2 from "./assets/Maxstream.PNG";
 import portoApp3 from "./assets/Mangoesky.PNG";
 import portoApp4 from "./assets/OBAH.PNG";
